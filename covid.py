@@ -1,6 +1,6 @@
 ## Vaccine_Finder
 ## Creator: Kareem T
-## Purpose: Notifiesuser at the next availability in local covid vaccinations
+## Purpose: Notifies user at the next availability in local covid vaccinations
 ## 4/1/21
 ##
 ## Requirements: selenium (module),  plyer (module), chromedriver. pip install / download accordingly
